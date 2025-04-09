@@ -51,8 +51,7 @@ Unit tests are written using Django's built-in TestCase class.
 Tests cover:
 
 ✅ Book model creation
-✅ Book views: list, create, update, delete
-✅ User login required for actions
+
 
 **To run the tests:**
 python manage.py test
